@@ -1,0 +1,10 @@
+.paragraph {
+    margin-bottom: 5px;
+}
+
+.link {
+    margin-bottom: 25px;
+    display: inline-block;
+    font-size: 13px;
+    color: #058bfc;
+}

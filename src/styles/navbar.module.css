@@ -1,0 +1,24 @@
+
+.nav ul {
+    display: flex;
+    padding: 0;
+    display: flex;
+    padding: 0;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+.nav li {
+    list-style: none;
+    margin-right: 15px;
+}
+
+.nav a {
+    text-decoration: none;
+    color: #454545;
+    padding: 5px;
+}
+
+.nav .active {
+    color: rgb(9 148 215);
+}
