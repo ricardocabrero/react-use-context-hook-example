@@ -30,6 +30,12 @@
     cursor: pointer;
 }
 
+@media (max-width: 767px) {
+    .counter button {
+        font-size: 14.5px;
+    }
+}
+
 .counter .left {
     border-radius: 4px 0 0 4px;
 }
